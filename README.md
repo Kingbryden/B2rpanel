@@ -1,19 +1,31 @@
-# 🎈 Blank app template
+---
 
-A simple Streamlit app template for you to modify!
+## 🧩 Portfolio Highlights
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+### ⚡ B2r Panel
+[![Live Site](https://img.shields.io/badge/SMM%20Panel-Live-green?style=for-the-badge&logo=vercel)](https://www.b2rbrand.com)
 
-### How to run it on your own machine
+> 🚀 Social media automation panel  
+> 🔌 Integrated API system for instant SMM services
 
-1. Install the requirements
+---
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+### 💘 Custom Dating Platform
+[![Visit Site](https://img.shields.io/badge/Dating%20Platform-Visit%20Now-red?style=for-the-badge&logo=firefox-browser)](https://www.b2rbrand.site)
 
-2. Run the app
+> ❤️ Matchmaking engine with real-time filters  
+> 🔐 Secure backend + modern design
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+---
+
+### 🤖 ALPHA Bot
+[![Try on Replit](https://img.shields.io/badge/ALPHA%20Bot-Test%20Now-blue?style=for-the-badge&logo=replit)](https://replit.com/@Kingbryden/ALPHA-BOT)
+
+> 🤖 Custom bot for Telegram & Discord  
+> 🧠 Built with Node.js + async command handling
+
+---
+
+### 🔒 B2r Auth System *(Coming Soon)*
+> 🛡️ Secure auth with JWT, OTP & email login  
+> 🧩 Plug-and-play for Node.js platforms
